@@ -1,0 +1,82 @@
+Norwalk UD 6/14 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1		
+
+Norwalk UD 6/21 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1						
+
+Norwalk UD 6/28 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1				
+
+Norwalk UD 7/5 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+1		1		
+
+Norwalk UD 7/19 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+3		3				
+
+Norwalk UD 7/26 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1				
+		
+Norwalk UD 8/9 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1		
+
+Norwalk UD 8/30 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1				
+			
+Norwalk UD 9/13 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1				
+				
+Norwalk UD 9/27 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1
+
+Norwalk UD 10/4 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1				
+
+Norwalk UD 10/11 
+Appointments	No Shows	Cannot Be Determinded 
+1				1				
+				
+Norwalk UD 10/18 
+Appointments	No Shows	Cannot Be Determinded 
+2				1		
+				
+Norwalk UD 10/25 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1					
+				
+Norwalk UD 11/01 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+1		1			
+				
+Norwalk UD 11/08
+Appointments	No Shows	Cannot Be Determinded 
+1				1
+			
+Norwalk UD 11/15 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2						
+		 	
+Norwalk UD 12/6 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1					
+			
+Norwalk UD 12/13 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1					
+
+
+
+Total Appts. given in 6 months = 27
+Total No Shows in 6 months = 9
+
+9/27 = 33.333%

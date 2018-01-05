@@ -1,0 +1,602 @@
+Anaheim Appt. 6/1 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				1			
+
+Anaheim Appt. 6/2 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4							
+
+Anaheim Appt. 6/5 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				2
+					
+Anaheim Appt. 6/6 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1		1
+	
+Anaheim Appt. 6/7 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+4		2		
+				
+Anaheim Appt. 6/8 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Anaheim Appt. 6/9 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+4		2		
+	
+Anaheim Appt. 6/12 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				1	
+
+Anaheim Appt. 6/13 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Anaheim Appt. 6/14 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Anaheim Appt. 6/15 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+4		2			
+
+Anaheim Appt. 6/16 - 0% 
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Anaheim Appt. 6/19 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Anaheim Appt. 6/20 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3					
+
+Anaheim Appt. 6/21 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1					
+
+Anaheim Appt. 6/22 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3					
+
+Anaheim Appt. 6/23 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				1			
+
+Anaheim Appt. 6/26 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Anaheim Appt. 6/27 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Anaheim Appt. 6/28 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Anaheim Appt. 6/29 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Anaheim Appt. 6/30 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				1	
+
+
+June Total Appts Given = 82
+June Total No Shows = 11
+
+Anaheim Appt. 7/3 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Anaheim Appt. 7/5 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Anaheim Appt. 7/6 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				1	
+
+Anaheim Appt. 7/7 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Anaheim Appt. 7/10 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Anaheim Appt. 7/11 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Anaheim Appt. 7/12 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Anaheim Appt. 7/13 - 0 %
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 7/14 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				3	
+
+Anaheim Appt. 7/17 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				2	
+
+Anaheim Appt. 7/18 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Anaheim Appt. 7/19 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Anaheim Appt. 7/20 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1		1	
+
+Anaheim Appt. 7/21 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Anaheim Appt. 7/24 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Anaheim Appt. 7/25 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Anaheim Appt. 7/26 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 7/27 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Anaheim Appt. 7/28 - 50% 
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Anaheim Appt. 7/31 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Total July Appts Given = 70
+Total July No Shows = 10
+
+Anaheim Appt. 8/1 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Anaheim Appt. 8/2 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/3 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/4 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/7 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+1		1			
+
+Anaheim Appt. 8/8 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/9 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/10 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/11 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/14 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/15 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Anaheim Appt. 8/16 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1		1	
+
+Anaheim Appt. 8/17 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Anaheim Appt. 8/18 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Anaheim Appt. 8/21 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/22 - 66%
+Appointments	No Shows	Cannot Be Determinded 
+3		2			
+
+Anaheim Appt. 8/23 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Anaheim Appt. 8/24 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+1				1	
+
+Anaheim Appt. 8/25 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/28 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 8/29 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Anaheim Appt. 8/30 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				1	
+
+Anaheim Appt. 8/31 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+2		2			
+
+Total Appts. Given in Aug. = 48 
+Total # of No Shows in Aug. = 12
+
+Anaheim Appt. 9/1 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 9/5 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Anaheim Appt. 9/6 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Anaheim Appt. 9/7 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				1	
+
+Anaheim Appt. 9/8 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 9/11 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+4		2			
+
+Anaheim Appt. 9/12 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3					
+
+Anaheim Appt. 9/13 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				1	
+
+Anaheim Appt. 9/14 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 9/15 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 9/18 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				1	
+
+Anaheim Appt. 9/19 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Anaheim Appt. 9/20 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+					
+Anaheim Appt. 9/21 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				1	
+					
+Anaheim Appt. 9/22 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+					
+Anaheim Appt. 9/25 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+					
+Anaheim Appt. 9/26 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3				2				
+					
+Anaheim Appt. 9/27 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2										
+					
+Anaheim Appt. 9/28 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1		
+					
+Anaheim Appt. 9/29 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+2		2							
+				
+Total Appts. Given in Sept. = 48
+Total No Shows in Sept. = 8
+
+	
+Anaheim Appt. 10/2 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+					
+Anaheim Appt. 10/3 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+					
+Anaheim Appt. 10/4 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 10/5 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Anaheim Appt. 10/6 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+					
+Anaheim Appt. 10/10 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3					
+				
+Anaheim Appt. 10/11 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+2		2			
+					
+Anaheim Appt. 10/12 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+2		2			
+					
+Anaheim Appt. 10/13 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					1
+					
+Anaheim Appt. 10/16 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+2		2			
+					
+Anaheim Appt. 10/17 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1		2	
+				
+Anaheim Appt. 10/18 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+					
+Anaheim Appt. 10/19 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+				
+Anaheim Appt. 10/20 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+									
+					
+Anaheim Appt. 10/24 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+					
+Anaheim Appt. 10/25 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1					
+					
+Anaheim Appt. 10/26 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				2			
+					
+Anaheim Appt. 10/17 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1					
+				
+Anaheim Appt. 10/30 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1					
+				
+Anaheim Appt. 10/31 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3				0			
+
+Total Oct. Appt.s given = 43
+Total Oct. No Shows = 13
+				
+Anaheim Appt. 11/1 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+					
+Anaheim Appt. 11/2 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				1	
+				
+Anaheim Appt. 11/3 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+				
+Anaheim Appt. 11/6 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+				
+Anaheim Appt. 11/7 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3				2	
+					
+Anaheim Appt. 11/8 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				1	
+					
+Anaheim Appt. 11/9 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+					
+Anaheim Appt. 11/13 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1		1	
+					
+Anaheim Appt. 11/14 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+					
+Anaheim Appt. 11/15 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1				
+					
+Anaheim Appt. 11/16 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				2	
+				
+Anaheim Appt. 11/17 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+2		2			
+				
+Anaheim Appt. 11/20 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+				
+Anaheim Appt. 11/21 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3					
+				
+Anaheim Appt. 11/22 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				2	
+				
+Anaheim Appt. 11/27 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				1	
+
+Anaheim Appt. 11/28 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Anaheim Appt. 11/29 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Anaheim Appt. 11/30 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Total Nov. Appt.s given = 42
+Total No shows = 10
+
+Anaheim Appt. 12/1 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 12/4 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				1	
+
+Anaheim Appt. 12/5 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3					
+
+Anaheim Appt. 12/6 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 12/7 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Anaheim Appt. 12/8 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+2		2			
+
+Anaheim Appt. 12/11 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1		1	
+
+Anaheim Appt. 12/12 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Anaheim Appt. 12/13 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 12/14 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 12/15 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1					
+
+Anaheim Appt. 12/18 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Anaheim Appt. 12/19 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Anaheim Appt. 12/20 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 12/21 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 12/22 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 12/27 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				1	
+
+Anaheim Appt. 12/28 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Anaheim Appt. 12/29 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Total Anaheim Dec. Appts given = 40
+Total Dec. No Shows = 9
+
+
+Total Anaheim Appts given in 6 months = 373
+Total Anaaheim No Shows in 6 months = 73
+
+
+73/373 = 19.57%

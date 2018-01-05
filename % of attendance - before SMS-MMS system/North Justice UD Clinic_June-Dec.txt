@@ -1,0 +1,91 @@
+North Justice 6/5 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2		2		
+
+North Justice 6/12 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1		1
+
+North Justice 6/19 - 75%
+Appointments	No Shows	Cannot Be Determinded 
+4		3		
+
+North Justice 6/26 - 66%
+Appointments	No Shows	Cannot Be Determinded 
+3		2		
+				
+North Justice 7/3 - 75%
+Appointments	No Shows	Cannot Be Determinded 
+4		3		
+
+North Justice 7/17 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				
+
+North Justice 8/7 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1		
+
+North Justice 8/28 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+4		2		
+
+North Justice 9/11 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4						
+
+North Justice 9/18 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3						
+
+North Justice 9/25 - 75%
+Appointments	No Shows	Cannot Be Determinded 
+4		3		1
+
+North Justice 10/2 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				
+
+North Justice 10/16 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				
+
+North Justice 10/30 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				
+
+North Justice 11/6 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1				
+
+North Justice 11/13 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1		
+		
+North Justice 11/20 - 75%
+Appointments	No Shows	Cannot Be Determinded 
+4		3				
+
+North Justice 11/27 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1		
+
+North Justice 12/4 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1		
+
+North Justice 12/11 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				
+
+
+North Justice 12/18 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+4		2		
+
+
+Total Appts. given in 6 months = 69
+Total No shows in 6 months = 22
+
+22/69 = 31.884%
+

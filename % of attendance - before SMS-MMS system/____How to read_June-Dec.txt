@@ -1,0 +1,9 @@
+Office Name - Date of Appt - % of No Shows for date (did not inculded inakes where servieces were not determinded)
+Total # of Appts. Given for Appt Date - Total # of No Shows for appt date - Total # of intakes where services cannot be determined
+					
+
+
+Total Apps given in 6 months = 
+Total NO shows in 6 months (did not inculded inakes where servieces were not determinded) = 
+
+Total NO shows in 6 months/Total Apps given in 6 months = Total % of no shows in 6 months

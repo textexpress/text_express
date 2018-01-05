@@ -1,0 +1,32 @@
+Irvine Appt. - University Park 6/9 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Irvine Appt. - University Park 7/14 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+5				1	
+
+Irvine Appt. - University Park 8/11 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2				1	
+
+Irvine Appt. - University Park 9/8 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Irvine Appt. - University Park 10/13 - 
+Appointments	No Shows	Cannot Be Determinded 
+6		2			
+
+Irvine Appt. - University Park 11/3 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Irvine Appt. - University Park 12/8 - 
+Appointments	No Shows	Cannot Be Determinded 
+3		1			
+
+Total Appts given in 6 months = 24
+Total No shows in 6 months = 4
+
+4/24 = 16.6%

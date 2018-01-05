@@ -1,0 +1,32 @@
+OC  BK 6/14 - 35%
+Appointments	No Shows	Cannot Be Determinded 
+20		7							
+
+OC  BK 7/12 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+20		5		2										
+
+OC  BK 8/9 - 44%
+Appointments	No Shows	Cannot Be Determinded 
+25		11		1							
+
+OC  BK 9/13 - 23.5%
+Appointments	No Shows	Cannot Be Determinded 
+17		4							
+
+OC  BK 10/11 - 31.6%
+Appointments	No Shows	Cannot Be Determinded 
+19		6		1										
+
+OC  BK 11/8 - 35%
+Appointments	No Shows	Cannot Be Determinded 
+20		7									
+
+OC  BK 12/13 - 15.8%
+Appointments	No Shows	Cannot Be Determinded 
+19		3		1					
+
+Total Appts. Given in 6 months = 140
+Total No Shows in 6 months = 43
+
+43/140 = 30.7%

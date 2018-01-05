@@ -1,0 +1,32 @@
+SE BK Clinic 6/14 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1								
+
+SE BK Clinic 7/20 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1					
+											
+SE BK Clinic 8/16 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+					
+SE BK Clinic 9/14 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+6		3								
+
+SE BK Clinic 10/18 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3								
+
+SE BK Clinic 11/9 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+											
+SE BK Clinic 12/6 - 75%
+Appointments	No Shows	Cannot Be Determinded 
+4		3			
+					
+Total Appts. Given in 6 months = 21 
+Total No shows in 6 months = 6
+
+6/21 = 38.6%

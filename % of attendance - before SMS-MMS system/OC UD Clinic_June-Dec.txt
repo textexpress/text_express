@@ -1,0 +1,122 @@
+SA UD Clinic 6/5 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+6		2		1
+
+SA UD Clinic 6/12 - 75%
+Appointments	No Shows	Cannot Be Determinded 
+4		3
+
+SA UD Clinic 6/19 - 62.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		5		
+
+SA UD Clinic 6/26 - 14.3%
+Appointments	No Shows	Cannot Be Determinded 
+7		1		1
+
+SA UD Clinic 7/3 - 0.4
+Appointments	No Shows	Cannot Be Determinded 
+5		2		1
+
+SA UD Clinic 7/10 - 0.2
+Appointments	No Shows	Cannot Be Determinded 
+5		1		2
+
+SA UD Clinic 7/17 - 37.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		3		1
+
+SA UD Clinic 7/24 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+1		1
+
+SA UD Clinic 7/31 - 0.4
+Appointments	No Shows	Cannot Be Determinded 
+10		4		2
+
+*******Changed from Clinics to Appts*****************
+SA UD Clinic 8/7 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1
+
+SA UD Clinic 8/14 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3				1
+
+SA UD Clinic 8/21 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+8		4		1
+
+SA UD Clinic 8/28 - 14.3%
+Appointments	No Shows	Cannot Be Determinded 
+7		1		1
+
+SA UD Clinic 9/5 - 12.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		1		2
+
+SA UD Clinic 9/11 - 0.2
+Appointments	No Shows	Cannot Be Determinded 
+5		1		1
+
+SA UD Clinic 9/18 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				1
+
+SA UD Clinic 9/25 - 37.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		3		1
+
+SA UD Clinic 10/2 - 37.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		3		
+
+SA UD Clinic 10/10 - 14.3%
+Appointments	No Shows	Cannot Be Determinded 
+7		1		1
+
+SA UD Clinic 10/16 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+5				
+
+SA UD Clinic 10/23
+Appointments	No Shows	Cannot Be Determinded 
+8 - BLOCKED BY ADMIN				
+
+SA UD Clinic 10/30 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+6		2		
+
+SA UD Clinic 11/6 - 37.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		3		2
+
+SA UD Clinic 11/13 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1		2
+
+SA UD Clinic 11/20 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1	
+
+SA UD Clinic 11/27 - 12.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		1		1
+
+SA UD Clinic 12/4 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1		
+
+SA UD Clinic 12/11 - 66%
+Appointments	No Shows	Cannot Be Determinded 
+3		2		
+
+SA UD Clinic 12/18 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+8		2		
+
+
+Total Appts. given in 6 months = 164 (Does not include BLOCKBY ADMIN)
+Total NO shows in 6 months = 50
+
+50/164 = 30.488%

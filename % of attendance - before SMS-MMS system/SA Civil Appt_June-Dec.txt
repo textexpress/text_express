@@ -1,0 +1,91 @@
+SA Civil Appt 6/1 - 
+Appointments	No Shows	Cannot Be Determinded 
+5					
+
+SA Civil Appt 6/8 - 
+Appointments	No Shows	Cannot Be Determinded 
+5		2		1			
+
+SA Civil Appt 6/15 - 
+Appointments	No Shows	Cannot Be Determinded 
+5				2	
+
+SA Civil Appt 6/22 - 
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+SA Civil Appt 6/29 - 
+Appointments	No Shows	Cannot Be Determinded 
+3					
+
+SA Civil Appt 7/6 - 
+Appointments	No Shows	Cannot Be Determinded 
+4		1		1	
+
+SA Civil Appt 7/13 - 
+Appointments	No Shows	Cannot Be Determinded 
+5				1	
+
+SA Civil Appt 7/20 - 
+Appointments	No Shows	Cannot Be Determinded 
+5		2			
+
+SA Civil Appt 7/27 - 
+Appointments	No Shows	Cannot Be Determinded 
+5		3		1	
+
+SA Civil Appt 8/3 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+4		2			
+
+SA Civil Appt 8/10 - 
+Appointments	No Shows	Cannot Be Determinded 
+5		1			
+
+SA Civil Appt 8/17 - 
+Appointments	No Shows	Cannot Be Determinded 
+5		1		1	
+
+
+SA Civil Appt 8/24 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+4		2			
+
+SA Civil Appt 8/31 - 
+Appointments	No Shows	Cannot Be Determinded 
+5		1			
+
+SA Civil Appt 9/7 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+SA Civil Appt 9/14 - 
+Appointments	No Shows	Cannot Be Determinded 
+7		1		2	
+
+SA Civil Appt 9/28 - 
+Appointments	No Shows	Cannot Be Determinded 
+10				2	
+
+****************Appts were changed to bi-weekly*****************
+SA Civil Appt 10/12 - 
+Appointments	No Shows	Cannot Be Determinded 
+7		3			
+
+SA Civil Appt 10/26 - 
+Appointments	No Shows	Cannot Be Determinded 
+11		1			
+
+SA Civil Appt 11/9 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+11					
+
+SA Civil Appt 12/14 - 
+Appointments	No Shows	Cannot Be Determinded 
+11		2		1	
+
+
+Total Appts. given in 6 months = 123
+Total NO shows in 6 months = 24
+
+24/123 = 19.5%

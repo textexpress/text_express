@@ -1,0 +1,56 @@
+RFO Clinic 6/13 - 30%
+Appointments	No Shows	Cannot Be Determinded 
+10		3			
+					
+RFO Clinic 6/27 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1					
+
+RFO Clinic 7/11 - 40%
+Appointments	No Shows	Cannot Be Determinded 
+10		4			
+					
+RFO Clinic 7/25 - 20%
+Appointments	No Shows	Cannot Be Determinded 
+5		1			
+
+RFO Clinic 8/8 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+9		3		1	
+					
+RFO Clinic 8/22 - 40%
+Appointments	No Shows	Cannot Be Determinded 
+5		2			
+
+RFO Clinic 9/12 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+9		3		1	
+					
+RFO Clinic 9/26 - 10%
+Appointments	No Shows	Cannot Be Determinded 
+10		1		5	
+
+RFO Clinic 10/10 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+4		2		1	
+					
+RFO Clinic 10/24 - 10%
+Appointments	No Shows	Cannot Be Determinded 
+10		1		2	
+
+RFO Clinic 11/14 - 20%
+Appointments	No Shows	Cannot Be Determinded 
+10		2		1	
+					
+RFO Clinic 11/28 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+1				1	
+
+RFO Clinic 12/12 - 30%
+Appointments	No Shows	Cannot Be Determinded 
+10		3			
+					
+Total Appts. Given in 6 months = 94
+Total No Shows in 6 months = 25
+
+25/94 = 26.6%

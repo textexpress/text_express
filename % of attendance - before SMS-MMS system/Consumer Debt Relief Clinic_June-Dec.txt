@@ -1,0 +1,60 @@
+Consumer Debt Relief Clinic 6/1 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+6				1					
+
+Consumer Debt Relief Clinic 6/8 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4				2	
+							
+Consumer Debt Relief Clinic 6/15 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1		2					
+
+Consumer Debt Relief Clinic 7/6 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1		1	
+					
+Consumer Debt Relief Clinic 7/20 - 66%
+Appointments	No Shows	Cannot Be Determinded 
+6		4							
+
+Consumer Debt Relief Clinic 8/3 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+6				1					
+							
+Consumer Debt Relief Clinic 8/17 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1							
+
+Consumer Debt Relief Clinic 9/7 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+6					
+					
+Consumer Debt Relief Clinic 9/21 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+6									
+
+Consumer Debt Relief Clinic 10/5 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+5					
+							
+Consumer Debt Relief Clinic 10/19 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1											
+
+Consumer Debt Relief Clinic 11/2 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1		
+							
+Consumer Debt Relief Clinic 12/7 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+6				3	
+							
+Consumer Debt Relief Clinic 12/21 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1
+
+Total Appts. given in 6 months = 81
+Total No Shows in 6 months = 10
+
+10/81 = 12.3

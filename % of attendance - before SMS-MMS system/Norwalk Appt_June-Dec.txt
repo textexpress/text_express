@@ -1,0 +1,113 @@
+Norwalk Appts. 6/5 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+6				
+
+Norwalk Appts. 6/12 - 16.6
+Appointments	No Shows	Cannot Be Determinded 
+6		1		1							
+
+Norwalk Appts. 6/19 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2		1					
+
+Norwalk Appts. 6/26 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2						
+
+Norwalk Appts. 7/3 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1								
+								
+Norwalk Appts. 7/10 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2							
+								
+Norwalk Appts. 7/17 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2							
+								
+Norwalk Appts. 7/24 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+6																	
+
+Norwalk Appts. 7/31 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+6		3							
+								
+Norwalk Appts. 8/7 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1		1					
+								
+Norwalk Appts. 8/14 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2							
+								
+Norwalk Appts. 8/21 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1							
+								
+Norwalk Appts. 8/28/ - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1							
+								
+Norwalk Appts. 9/11 - 66.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		4							
+								
+Norwalk Appts. 9/18 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1							
+								
+Norwalk Appts. 9/25 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2							
+								
+Norwalk Appts. 10/2 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2		1					
+								
+Norwalk Appts. 10/16 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2							
+								
+Norwalk Appts. 10/23 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+3				1					
+								
+Norwalk Appts. 10/30 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2							
+								
+Norwalk Appts. 11/6 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1							
+								
+Norwalk Appts. 11/13 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2							
+								
+Norwalk Appts. 11/20 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2							
+								
+Norwalk Appts. 11/27 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2							
+								
+Norwalk Appts. 12/4 - 33.3%
+Appointments	No Shows	Cannot Be Determinded 
+6		2							
+								
+Norwalk Appts. 12/11 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1		1					
+								
+Norwalk Appts. 12/18 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1							
+
+
+Total Norwalk Appts. given in 6 months = 159
+Total No shows in 6 months = 42
+
+42/159 = 26.4%

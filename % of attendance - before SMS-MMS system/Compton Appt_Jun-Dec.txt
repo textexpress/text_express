@@ -1,0 +1,117 @@
+Compton Appt. 6/6 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Compton Appt. 6/13 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+8		2		1	
+
+Compton Appt. 6/20 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+7				1			
+					
+Compton Appt. 6/27 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+8				3	
+
+Compton Appt. 7/11 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+8		4		1	
+
+Compton Appt. 7/18 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+8		2			
+					
+Compton Appt. 7/25 - 12.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		1		1	
+
+Compton Appt. 8/1 - 37.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		3		1	
+
+Compton Appt. 8/8 - 37.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		3		1	
+
+Compton Appt. 8/15 - 28.6%
+Appointments	No Shows	Cannot Be Determinded 
+7		2			
+
+Compton Appt. 8/22 - 33%
+Appointments	No Shows	Cannot Be Determinded 
+3		1		1	
+
+Compton Appt. 8/29 - 50%
+Appointments	No Shows	Cannot Be Determinded 
+2		1			
+
+Compton Appt. 9/5 - 37.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		3			
+
+Compton Appt. 9/12 - 12.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		1		2	
+
+Compton Appt. 9/19 - 14.3%
+Appointments	No Shows	Cannot Be Determinded 
+7		1			
+
+Compton Appt. 9/26 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1			
+
+Compton Appt. 10/3 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+5					
+
+Compton Appt. 10/10 - 14.3%
+Appointments	No Shows	Cannot Be Determinded 
+7		1			
+
+Compton Appt. 10/17 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+4					
+
+Compton Appt. 10/24 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Compton Appt. 10/31 - 14.3%
+Appointments	No Shows	Cannot Be Determinded 
+7		1		2	
+
+Compton Appt. 11/7 - 37.5%
+Appointments	No Shows	Cannot Be Determinded 
+8		3			
+
+Compton Appt. 11/14 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+2					
+
+Compton Appt. 11/21 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+5				1	
+					
+Compton Appt. 11/28 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+5				2				
+
+Compton Appt. 12/5 - 25%
+Appointments	No Shows	Cannot Be Determinded 
+4		1		1	
+
+Compton Appt. 12/12 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+7				3			
+
+Compton Appt. 12/19 - 0%
+Appointments	No Shows	Cannot Be Determinded 
+8				3	
+
+
+Total Appts. given in 6 months = 170
+Total No shows in 6 months = 32
+
+32/170 = 18.8%

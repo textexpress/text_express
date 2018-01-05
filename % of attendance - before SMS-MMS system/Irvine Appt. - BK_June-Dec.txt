@@ -1,0 +1,29 @@
+Irvine Appt. - BK 6/2 - 16.6%
+Appointments	No Shows	Cannot Be Determinded 
+6		1						
+
+Irvine Appt. - BK 8/4 - 100%
+Appointments	No Shows	Cannot Be Determinded 
+1		1									
+
+Irvine Appt. - BK 9/1 - .4
+Appointments	No Shows	Cannot Be Determinded 
+5		2						
+
+Irvine Appt. - BK 10/6 - .4
+Appointments	No Shows	Cannot Be Determinded 
+5		2							
+
+Irvine Appt. - BK 11/3 - 0
+Appointments	No Shows	Cannot Be Determinded 
+2									
+
+Irvine Appt. - BK 12/1 - 
+Appointments	No Shows	Cannot Be Determinded 
+6				2					
+
+Total Appts. given in 6 months =  25
+Total No Shows in 6 months = 6
+
+6/25 = 24%
+
